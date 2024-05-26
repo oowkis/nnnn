@@ -1,3 +1,2 @@
-HI! my name is Kyungran Kim
-Kookmin University
+HI! my name is Kyungran Kim! 
 Thank you
